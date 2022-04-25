@@ -1,4 +1,4 @@
-# web-scrapper-puppeteer
+# web-scraper-puppeteer
 Scraps Reviews from a certain website(not revealed)
 
 -> Use "npm i" to install all the dependencies
